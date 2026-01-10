@@ -4,7 +4,7 @@ import { Send, ArrowRight, Sparkles } from "lucide-react";
 export function CTA() {
   const handleTelegramRedirect = () => {
     // Replace with your actual Telegram bot link
-    window.open("https://t.me/YOUR_BOT_USERNAME", "_blank");
+    window.open("https://t.me/databridgerobot", "_blank");
   };
 
   return (

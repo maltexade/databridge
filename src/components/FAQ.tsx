@@ -98,7 +98,7 @@ export function FAQ() {
             <span className="font-bold">Still have questions?</span> Connect with our Telegram bot for personalized assistance.
           </p>
           <button 
-            onClick={() => window.open('https://t.me/YOUR_BOT_USERNAME', '_blank')}
+            onClick={() => window.open('https://t.me/databridgerobot', '_blank')}
             className="inline-flex items-center gap-2 text-yellow-600 font-bold hover:text-yellow-700 transition-colors"
           >
             Contact Support via Telegram

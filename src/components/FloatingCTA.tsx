@@ -20,7 +20,7 @@ export function FloatingCTA() {
   }, [isDismissed]);
 
   const handleClick = () => {
-    window.open('https://t.me/YOUR_BOT_USERNAME', '_blank');
+    window.open('https://t.me/databridgerobot', '_blank');
   };
 
   const handleDismiss = (e: React.MouseEvent) => {
