@@ -31,7 +31,7 @@ export function CTA() {
         <div className="inline-flex items-center gap-2 px-5 py-2.5 bg-yellow-500 border border-yellow-600 rounded-full mb-8 shadow-lg">
           <Sparkles className="w-4 h-4 text-slate-900" />
           <span className="text-sm font-bold text-slate-900">
-            START YOUR MTN PARTNERSHIP TODAY
+            START YOUR DATABRIDGE PARTNERSHIP TODAY
           </span>
         </div>
 

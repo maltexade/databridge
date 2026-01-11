@@ -19,7 +19,7 @@ export function Footer() {
               Empowering MTN partnerships through innovative data solutions across Nigeria.
             </p>
             <div className="inline-block px-3 py-1 bg-yellow-500/20 border border-yellow-500/30 rounded-full">
-              <span className="text-yellow-400 text-xs font-semibold">MTN PARTNER PROGRAM</span>
+              <span className="text-yellow-400 text-xs font-semibold">DATABRIDGE PARTNER PROGRAM</span>
             </div>
           </div>
 
@@ -55,13 +55,13 @@ export function Footer() {
             <div className="flex items-center gap-2 text-sm text-slate-400">
               <span>Made with</span>
               <Heart className="w-4 h-4 text-rose-500 fill-rose-500" />
-              <span>for MTN Nigeria partners</span>
+              <span>for MTN Nigeria users</span>
             </div>
           </div>
 
           <div className="mt-6 text-center">
             <p className="text-xs text-slate-500">
-              This service is exclusively for MTN Nigeria partners. By registering, you acknowledge and agree to our terms and conditions.
+              This service is exclusively for MTN Nigeria users. By registering, you acknowledge and agree to our terms and conditions.
             </p>
           </div>
         </div>
